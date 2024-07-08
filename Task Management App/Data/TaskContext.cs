@@ -10,4 +10,4 @@ namespace TaskManagementAPI.Data
 
         public DbSet<TaskItem> TaskItems { get; set; }
     }
-}   
+}

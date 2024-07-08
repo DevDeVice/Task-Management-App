@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\DevDeVice\\source\\repos\\Task Management App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26C6BAE0-FABD-4EF3-941A-2FD4C31296CD}|Task Management App\\Task Management App.csproj|c:\\users\\devdevice\\source\\repos\\task management app\\task management app\\data\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26C6BAE0-FABD-4EF3-941A-2FD4C31296CD}|Task Management App\\Task Management App.csproj|solutionrelative:task management app\\data\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{26C6BAE0-FABD-4EF3-941A-2FD4C31296CD}|Task Management App\\Task Management App.csproj|c:\\users\\devdevice\\source\\repos\\task management app\\task management app\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26C6BAE0-FABD-4EF3-941A-2FD4C31296CD}|Task Management App\\Task Management App.csproj|solutionrelative:task management app\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C6BAE0-FABD-4EF3-941A-2FD4C31296CD}|Task Management App\\Task Management App.csproj|c:\\users\\devdevice\\source\\repos\\task management app\\task management app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C6BAE0-FABD-4EF3-941A-2FD4C31296CD}|Task Management App\\Task Management App.csproj|solutionrelative:task management app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C6BAE0-FABD-4EF3-941A-2FD4C31296CD}|Task Management App\\Task Management App.csproj|c:\\users\\devdevice\\source\\repos\\task management app\\task management app\\data\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C6BAE0-FABD-4EF3-941A-2FD4C31296CD}|Task Management App\\Task Management App.csproj|solutionrelative:task management app\\data\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C6BAE0-FABD-4EF3-941A-2FD4C31296CD}|Task Management App\\Task Management App.csproj|c:\\users\\devdevice\\source\\repos\\task management app\\task management app\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C6BAE0-FABD-4EF3-941A-2FD4C31296CD}|Task Management App\\Task Management App.csproj|solutionrelative:task management app\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C6BAE0-FABD-4EF3-941A-2FD4C31296CD}|Task Management App\\Task Management App.csproj|c:\\users\\devdevice\\source\\repos\\task management app\\task management app\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C6BAE0-FABD-4EF3-941A-2FD4C31296CD}|Task Management App\\Task Management App.csproj|solutionrelative:task management app\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +30,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Data.cs",
-              "DocumentMoniker": "C:\\Users\\DevDeVice\\source\\repos\\Task Management App\\Task Management App\\Data\\Data.cs",
-              "RelativeDocumentMoniker": "Task Management App\\Data\\Data.cs",
-              "ToolTip": "C:\\Users\\DevDeVice\\source\\repos\\Task Management App\\Task Management App\\Data\\Data.cs",
-              "RelativeToolTip": "Task Management App\\Data\\Data.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "DocumentIndex": 2,
+              "Title": "TaskContext.cs",
+              "DocumentMoniker": "C:\\Users\\DevDeVice\\source\\repos\\Task Management App\\Task Management App\\Data\\TaskContext.cs",
+              "RelativeDocumentMoniker": "Task Management App\\Data\\TaskContext.cs",
+              "ToolTip": "C:\\Users\\DevDeVice\\source\\repos\\Task Management App\\Task Management App\\Data\\TaskContext.cs",
+              "RelativeToolTip": "Task Management App\\Data\\TaskContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T19:44:28.19Z",
+              "WhenOpened": "2024-07-08T20:12:16.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\DevDeVice\\source\\repos\\Task Management App\\Task Management App\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "Task Management App\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\DevDeVice\\source\\repos\\Task Management App\\Task Management App\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "Task Management App\\Controllers\\TasksController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:11:18.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\DevDeVice\\source\\repos\\Task Management App\\Task Management App\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Task Management App\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\DevDeVice\\source\\repos\\Task Management App\\Task Management App\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Task Management App\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:11:04.834Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DevDeVice\\source\\repos\\Task Management App\\Task Management App\\Program.cs",
+              "RelativeDocumentMoniker": "Task Management App\\Program.cs",
+              "ToolTip": "C:\\Users\\DevDeVice\\source\\repos\\Task Management App\\Task Management App\\Program.cs",
+              "RelativeToolTip": "Task Management App\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:07:13.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "TaskItem.cs",
               "DocumentMoniker": "C:\\Users\\DevDeVice\\source\\repos\\Task Management App\\Task Management App\\Models\\TaskItem.cs",
               "RelativeDocumentMoniker": "Task Management App\\Models\\TaskItem.cs",
               "ToolTip": "C:\\Users\\DevDeVice\\source\\repos\\Task Management App\\Task Management App\\Models\\TaskItem.cs",
               "RelativeToolTip": "Task Management App\\Models\\TaskItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T19:43:49.502Z"
+              "WhenOpened": "2024-07-08T19:43:49.502Z",
+              "EditorCaption": ""
             }
           ]
         }
