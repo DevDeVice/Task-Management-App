@@ -1015,11 +1015,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DevDeVice\\source\\repos\\Task Management App\\Task Management App\\Task Management App.csproj",
+      "projectUniqueName": "E:\\C#\\Task-Management-App\\Task Management App\\Task Management App.csproj",
       "projectName": "Task Management App",
-      "projectPath": "C:\\Users\\DevDeVice\\source\\repos\\Task Management App\\Task Management App\\Task Management App.csproj",
+      "projectPath": "E:\\C#\\Task-Management-App\\Task Management App\\Task Management App.csproj",
       "packagesPath": "C:\\Users\\DevDeVice\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DevDeVice\\source\\repos\\Task Management App\\Task Management App\\obj\\",
+      "outputPath": "E:\\C#\\Task-Management-App\\Task Management App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DevDeVice\\AppData\\Roaming\\NuGet\\NuGet.Config",
