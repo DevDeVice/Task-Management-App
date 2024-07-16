@@ -8034,11 +8034,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DevDeVice\\source\\repos\\Task Management App\\TaskManagementApp.IntegrationTests\\TaskManagementApp.IntegrationTests.csproj",
+      "projectUniqueName": "E:\\C#\\Task-Management-App\\TaskManagementApp.IntegrationTests\\TaskManagementApp.IntegrationTests.csproj",
       "projectName": "TaskManagementApp.IntegrationTests",
-      "projectPath": "C:\\Users\\DevDeVice\\source\\repos\\Task Management App\\TaskManagementApp.IntegrationTests\\TaskManagementApp.IntegrationTests.csproj",
+      "projectPath": "E:\\C#\\Task-Management-App\\TaskManagementApp.IntegrationTests\\TaskManagementApp.IntegrationTests.csproj",
       "packagesPath": "C:\\Users\\DevDeVice\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DevDeVice\\source\\repos\\Task Management App\\TaskManagementApp.IntegrationTests\\obj\\",
+      "outputPath": "E:\\C#\\Task-Management-App\\TaskManagementApp.IntegrationTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DevDeVice\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8056,8 +8056,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\DevDeVice\\source\\repos\\Task Management App\\Task Management App\\Task Management App.csproj": {
-              "projectPath": "C:\\Users\\DevDeVice\\source\\repos\\Task Management App\\Task Management App\\Task Management App.csproj"
+            "E:\\C#\\Task-Management-App\\Task Management App\\Task Management App.csproj": {
+              "projectPath": "E:\\C#\\Task-Management-App\\Task Management App\\Task Management App.csproj"
             }
           }
         }

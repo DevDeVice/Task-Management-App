@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "E:\\C#\\Task-Management-App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C#\\Task-Management-App\\Task Management App\\Controllers\\TasksController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task Management App\\Controllers\\TasksController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4A3A2A1-001F-4392-8053-2640ADFDA7C4}|TaskManagementApp.UnitTests\\TaskManagementApp.UnitTests.csproj|e:\\c#\\task-management-app\\taskmanagementapp.unittests\\taskscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4A3A2A1-001F-4392-8053-2640ADFDA7C4}|TaskManagementApp.UnitTests\\TaskManagementApp.UnitTests.csproj|solutionrelative:taskmanagementapp.unittests\\taskscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C#\\Task-Management-App\\Task Management App\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task Management App\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40FF1F2F-AFFC-45DB-9644-FED8C38836FA}|TaskManagementApp.IntegrationTests\\TaskManagementApp.IntegrationTests.csproj|e:\\c#\\task-management-app\\taskmanagementapp.integrationtests\\integrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40FF1F2F-AFFC-45DB-9644-FED8C38836FA}|TaskManagementApp.IntegrationTests\\TaskManagementApp.IntegrationTests.csproj|solutionrelative:taskmanagementapp.integrationtests\\integrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C#\\Task-Management-App\\Task Management App\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task Management App\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D7A86213-E531-456F-BD3F-ACBCFE0C2669}|Task Management App\\Task Management App.csproj|e:\\c#\\task-management-app\\task management app\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A86213-E531-456F-BD3F-ACBCFE0C2669}|Task Management App\\Task Management App.csproj|solutionrelative:task management app\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C#\\Task-Management-App\\Task Management App\\Models\\TaskItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task Management App\\Models\\TaskItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D7A86213-E531-456F-BD3F-ACBCFE0C2669}|Task Management App\\Task Management App.csproj|e:\\c#\\task-management-app\\task management app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A86213-E531-456F-BD3F-ACBCFE0C2669}|Task Management App\\Task Management App.csproj|solutionrelative:task management app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C#\\Task-Management-App\\Task Management App\\Data\\TaskContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task Management App\\Data\\TaskContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D7A86213-E531-456F-BD3F-ACBCFE0C2669}|Task Management App\\Task Management App.csproj|e:\\c#\\task-management-app\\task management app\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A86213-E531-456F-BD3F-ACBCFE0C2669}|Task Management App\\Task Management App.csproj|solutionrelative:task management app\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A86213-E531-456F-BD3F-ACBCFE0C2669}|Task Management App\\Task Management App.csproj|e:\\c#\\task-management-app\\task management app\\data\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A86213-E531-456F-BD3F-ACBCFE0C2669}|Task Management App\\Task Management App.csproj|solutionrelative:task management app\\data\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A86213-E531-456F-BD3F-ACBCFE0C2669}|Task Management App\\Task Management App.csproj|e:\\c#\\task-management-app\\task management app\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A86213-E531-456F-BD3F-ACBCFE0C2669}|Task Management App\\Task Management App.csproj|solutionrelative:task management app\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,68 +38,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TaskContext.cs",
-              "DocumentMoniker": "E:\\C#\\Task-Management-App\\Task Management App\\Data\\TaskContext.cs",
-              "RelativeDocumentMoniker": "Task Management App\\Data\\TaskContext.cs",
-              "ToolTip": "E:\\C#\\Task-Management-App\\Task Management App\\Data\\TaskContext.cs",
-              "RelativeToolTip": "Task Management App\\Data\\TaskContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "DocumentIndex": 0,
+              "Title": "TasksControllerTests.cs",
+              "DocumentMoniker": "E:\\C#\\Task-Management-App\\TaskManagementApp.UnitTests\\TasksControllerTests.cs",
+              "RelativeDocumentMoniker": "TaskManagementApp.UnitTests\\TasksControllerTests.cs",
+              "ToolTip": "E:\\C#\\Task-Management-App\\TaskManagementApp.UnitTests\\TasksControllerTests.cs",
+              "RelativeToolTip": "TaskManagementApp.UnitTests\\TasksControllerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T20:12:16.196Z"
+              "WhenOpened": "2024-07-16T15:38:01.657Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "E:\\C#\\Task-Management-App\\Task Management App\\Startup.cs",
+              "RelativeDocumentMoniker": "Task Management App\\Startup.cs",
+              "ToolTip": "E:\\C#\\Task-Management-App\\Task Management App\\Startup.cs",
+              "RelativeToolTip": "Task Management App\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T15:32:39.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "TasksController.cs",
               "DocumentMoniker": "E:\\C#\\Task-Management-App\\Task Management App\\Controllers\\TasksController.cs",
               "RelativeDocumentMoniker": "Task Management App\\Controllers\\TasksController.cs",
               "ToolTip": "E:\\C#\\Task-Management-App\\Task Management App\\Controllers\\TasksController.cs",
               "RelativeToolTip": "Task Management App\\Controllers\\TasksController.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAwwEwAAAAAAAAA",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T20:11:18.386Z",
+              "WhenOpened": "2024-07-16T15:32:23.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskContext.cs",
+              "DocumentMoniker": "E:\\C#\\Task-Management-App\\Task Management App\\Data\\TaskContext.cs",
+              "RelativeDocumentMoniker": "Task Management App\\Data\\TaskContext.cs",
+              "ToolTip": "E:\\C#\\Task-Management-App\\Task Management App\\Data\\TaskContext.cs",
+              "RelativeToolTip": "Task Management App\\Data\\TaskContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T15:32:21.321Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "E:\\C#\\Task-Management-App\\Task Management App\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Task Management App\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "E:\\C#\\Task-Management-App\\Task Management App\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Task Management App\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Title": "IntegrationTests.cs",
+              "DocumentMoniker": "E:\\C#\\Task-Management-App\\TaskManagementApp.IntegrationTests\\IntegrationTests.cs",
+              "RelativeDocumentMoniker": "TaskManagementApp.IntegrationTests\\IntegrationTests.cs",
+              "ToolTip": "E:\\C#\\Task-Management-App\\TaskManagementApp.IntegrationTests\\IntegrationTests.cs",
+              "RelativeToolTip": "TaskManagementApp.IntegrationTests\\IntegrationTests.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABEAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T20:11:04.834Z"
+              "WhenOpened": "2024-07-16T15:28:41.67Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\C#\\Task-Management-App\\Task Management App\\Program.cs",
-              "RelativeDocumentMoniker": "Task Management App\\Program.cs",
-              "ToolTip": "E:\\C#\\Task-Management-App\\Task Management App\\Program.cs",
-              "RelativeToolTip": "Task Management App\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T20:07:13.946Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "TaskItem.cs",
               "DocumentMoniker": "E:\\C#\\Task-Management-App\\Task Management App\\Models\\TaskItem.cs",
               "RelativeDocumentMoniker": "Task Management App\\Models\\TaskItem.cs",
               "ToolTip": "E:\\C#\\Task-Management-App\\Task Management App\\Models\\TaskItem.cs",
               "RelativeToolTip": "Task Management App\\Models\\TaskItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T19:43:49.502Z"
+              "WhenOpened": "2024-07-16T15:28:35.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\Task-Management-App\\Task Management App\\Program.cs",
+              "RelativeDocumentMoniker": "Task Management App\\Program.cs",
+              "ToolTip": "E:\\C#\\Task-Management-App\\Task Management App\\Program.cs",
+              "RelativeToolTip": "Task Management App\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:07:13.946Z",
+              "EditorCaption": ""
             }
           ]
         }

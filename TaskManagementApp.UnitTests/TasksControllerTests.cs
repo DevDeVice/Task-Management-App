@@ -23,7 +23,8 @@ public class TasksControllerTests
         var result = await controller.GetTasks();
 
         // Assert
-        var okResult = Assert.IsType<OkObjectResult>(result);
+        var okResult = result.Result as OkObjectResult;
+        Assert.NotNull(okResult);
         var returnValue = Assert.IsType<List<TaskItem>>(okResult.Value);
         Assert.Single(returnValue);
     }

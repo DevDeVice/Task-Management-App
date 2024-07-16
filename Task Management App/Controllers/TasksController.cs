@@ -1,47 +1,46 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using TaskManagementAPI.Data;
-using TaskManagementAPI.Models;
+using System.Collections.Generic;
+using System.Threading.Tasks;
+using TaskManagementApp.Models;
+using TaskManagementApp.Services;
 
-namespace TaskManagementAPI.Controllers
+namespace TaskManagementApp.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
     public class TasksController : ControllerBase
     {
-        private readonly TaskContext _context;
+        private readonly ITaskService _taskService;
 
-        public TasksController(TaskContext context)
+        public TasksController(ITaskService taskService)
         {
-            _context = context;
+            _taskService = taskService;
         }
 
         [HttpGet]
         public async Task<ActionResult<IEnumerable<TaskItem>>> GetTasks()
         {
-            return await _context.TaskItems.ToListAsync();
+            var tasks = await _taskService.GetTasks();
+            return Ok(tasks);
         }
 
         [HttpGet("{id}")]
         public async Task<ActionResult<TaskItem>> GetTaskItem(int id)
         {
-            var taskItem = await _context.TaskItems.FindAsync(id);
-
+            var taskItem = await _taskService.GetTaskItem(id);
             if (taskItem == null)
             {
                 return NotFound();
             }
 
-            return taskItem;
+            return Ok(taskItem);
         }
 
         [HttpPost]
         public async Task<ActionResult<TaskItem>> PostTaskItem(TaskItem taskItem)
         {
-            _context.TaskItems.Add(taskItem);
-            await _context.SaveChangesAsync();
-
-            return CreatedAtAction(nameof(GetTaskItem), new { id = taskItem.Id }, taskItem);
+            var createdTask = await _taskService.AddTaskItem(taskItem);
+            return CreatedAtAction(nameof(GetTaskItem), new { id = createdTask.Id }, createdTask);
         }
 
         [HttpPut("{id}")]
@@ -52,23 +51,18 @@ namespace TaskManagementAPI.Controllers
                 return BadRequest();
             }
 
-            _context.Entry(taskItem).State = EntityState.Modified;
-            await _context.SaveChangesAsync();
-
+            var updatedTask = await _taskService.UpdateTaskItem(id, taskItem);
             return NoContent();
         }
 
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteTaskItem(int id)
         {
-            var taskItem = await _context.TaskItems.FindAsync(id);
-            if (taskItem == null)
+            var result = await _taskService.DeleteTaskItem(id);
+            if (!result)
             {
                 return NotFound();
             }
-
-            _context.TaskItems.Remove(taskItem);
-            await _context.SaveChangesAsync();
 
             return NoContent();
         }
