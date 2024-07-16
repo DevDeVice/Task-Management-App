@@ -1,0 +1,7 @@
+C:\Users\DevDeVice\source\repos\Task Management App\TaskManagementApp.UnitTests\bin\Debug\net8.0\CoverletSourceRootsMapping_TaskManagementApp.UnitTests
+C:\Users\DevDeVice\source\repos\Task Management App\TaskManagementApp.UnitTests\obj\Debug\net8.0\TaskManagementApp.UnitTests.csproj.AssemblyReference.cache
+C:\Users\DevDeVice\source\repos\Task Management App\TaskManagementApp.UnitTests\obj\Debug\net8.0\TaskManagementApp.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DevDeVice\source\repos\Task Management App\TaskManagementApp.UnitTests\obj\Debug\net8.0\TaskManagementApp.UnitTests.AssemblyInfoInputs.cache
+C:\Users\DevDeVice\source\repos\Task Management App\TaskManagementApp.UnitTests\obj\Debug\net8.0\TaskManagementApp.UnitTests.AssemblyInfo.cs
+C:\Users\DevDeVice\source\repos\Task Management App\TaskManagementApp.UnitTests\obj\Debug\net8.0\TaskManagementApp.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\DevDeVice\source\repos\Task Management App\TaskManagementApp.UnitTests\obj\Debug\net8.0\TaskManagementApp.UnitTests.sourcelink.json
